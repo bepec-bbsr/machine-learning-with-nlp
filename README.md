@@ -98,7 +98,7 @@ The Jupyter notebook can be installed as usually via pip.
 Alternatively, we can use the Conda installer if we have Anaconda or Miniconda installed:
 
 ```$ conda install jupyter notebook```
-To open a Jupyter notebook, we cd to the directory that contains your code examples, e.g,.
+To open a Jupyter notebook, we cd to the directory that contains your code examples
 
 ```$ cd ~/code/python-machine-learning-book```
 and launch jupyter notebook by executing
