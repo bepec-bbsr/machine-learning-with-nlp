@@ -94,16 +94,24 @@ Some readers weere wondering about the `.ipynb` of the code files -- these files
 
 The Jupyter notebook can be installed as usually via pip.
 
-```$ pip install jupyter notebook```
+```
+$ pip install jupyter notebook
+```
 Alternatively, we can use the Conda installer if we have Anaconda or Miniconda installed:
 
-```$ conda install jupyter notebook```
+```
+$ conda install jupyter notebook
+```
 To open a Jupyter notebook, we cd to the directory that contains your code examples
 
-```$ cd ~/code/python-machine-learning-book```
-and launch jupyter notebook by executing
+```
+$ cd ~/code/python-machine-learning-book
+```
+and launch ``jupyter notebook`` by executing
 
-```$ jupyter notebook```
+```
+$ jupyter notebook
+```
 Jupyter will start in our default browser (typically running at http://localhost:8888/). Now, we can simply select the notebook you wish to open from the Jupyter menu.
 
 ### Alternative 
